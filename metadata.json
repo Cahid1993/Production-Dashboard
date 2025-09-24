@@ -1,0 +1,5 @@
+{
+  "name": "Production Dashboard",
+  "description": "A real-time production dashboard visualizing key metrics like output and inventory across various product blends.",
+  "requestFramePermissions": []
+}
